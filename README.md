@@ -28,15 +28,13 @@
 <a href="https://t.me/Olegsander48" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="olegsander48" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/aleksandr-prigodich-b7028a1b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aleksandr-prigodich" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/olegsander48" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="olegsander48" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
 Some info about me:
-- I am 23 year old programmer from Minsk, Belarus
-- I learn Computer science in BNTU (Belarusian National Technical University). 🏢
-- I learn Java at Job4j ☕
-- Third item
-- Fourth item
+- I'm 23 year old programmer from Minsk, Belarus :city_sunrise:
+- I learn Computer science in BNTU (Belarusian National Technical University). :office:
+- I learn sowtware development at Job4j :coffee:
+- I’m currently working as Software Engineer at Amkodor :factory:
 
 <hr>
 <h3 align="left">✨ Random Dev Quote:</h3>
@@ -47,4 +45,3 @@ Some info about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegsander48&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Olegsander48&hide=stars,prs,issues,contribs)
-
