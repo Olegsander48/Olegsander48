@@ -1,7 +1,8 @@
-## Hi, my name is Sasha. I'm a java software engineer :v:
+## Hi, my name is Sasha. Welcome to my page :v:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -12,6 +13,7 @@
 ![Spring Security](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,15 +21,19 @@
 ![image](https://github.com/user-attachments/assets/bd670541-1c34-44e0-8675-11b5997be285)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-- 
-- Second item
+Some info about me:
+- I am 23 year old programmer from Minsk, Belarus
+- I learn Computer science in BNTU (Belarusian National Technical University). 🏢
+- I learn Java at Job4j ☕
 - Third item
 - Fourth item
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegsander48&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Olegsander48&hide=stars,prs,issues,contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegsander48&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+
 
 
 
