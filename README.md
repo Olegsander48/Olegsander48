@@ -34,7 +34,7 @@ Some info about me:
 - I'm 23 year old programmer from Minsk, Belarus :city_sunrise:
 - I learn Computer science in BNTU (Belarusian National Technical University). :office:
 - I learn sowtware development at Job4j :coffee:
-- I’m currently working as Software Engineer at Amkodor :factory:
+- I’m currently working as Software Engineer at JSC Amkodor :factory:
 
 <hr>
 <h3 align="left">✨ Random Dev Quote:</h3>
