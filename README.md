@@ -43,5 +43,5 @@ Some info about me:
 </p>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegsander48&layout=compact)](https://github.com/ShamRail/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olegsander48&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegsander48&layout=compact)](https://github.com/Olegsander48/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olegsander48&show_icons=true&include_all_commits=true)](https://github.com/Olegsander48/github-readme-stats)
