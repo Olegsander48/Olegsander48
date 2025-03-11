@@ -31,6 +31,9 @@
 <a href="mailto:prigodichaleks@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="prigodichaleks@gmail.com" height="40" width="30" /></a>&nbsp;
 </p>
 
+<a href="mailto:prigodichaleks@gmail.com" target="blank">mail</a>&nbsp;
+
+
 Some info about me:
 - I'm 23 year old programmer from Minsk, Belarus :city_sunrise:
 - I learn Computer science in BNTU (Belarusian National Technical University). :office:
