@@ -28,11 +28,8 @@
 <a href="https://t.me/Olegsander48" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="olegsander48" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/aleksandr-prigodich-b7028a1b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aleksandr-prigodich" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/olegsander48" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="olegsander48" height="40" width="30" /></a>&nbsp;
-<a href="mailto:prigodichaleks@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="prigodichaleks@gmail.com" height="40" width="30" /></a>&nbsp;
+<a href="mailto:prigodichaleks@gmail.com?subject=Hi%20Aleks.%20I%20saw%20your%20GitHub%20profile%20&body=I'm%20writing%20to%20you%20because%20...%0A"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="prigodichaleks@gmail.com" height="40" width="30" /></a>&nbsp;
 </p>
-
-<a href="mailto:prigodichaleks@gmail.com?subject=Hi.%20I%20saw%20your%20GitHub%20profile%20">Link text</a>
-
 
 Some info about me:
 - I'm 23 year old programmer from Minsk, Belarus :city_sunrise:
