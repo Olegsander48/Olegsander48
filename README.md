@@ -31,7 +31,7 @@
 <a href="mailto:prigodichaleks@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="prigodichaleks@gmail.com" height="40" width="30" /></a>&nbsp;
 </p>
 
-<a href="mailto:prigodichaleks@gmail.com&body=привет?subject=вопрос">mail</a>&nbsp;
+<a href="mailto:prigodichaleks@gmail.com?subject=Hi.%20I%20saw%20your%20GitHub%20profile%20">Link text</a>
 
 
 Some info about me:
