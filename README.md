@@ -45,4 +45,4 @@ Some info about me:
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegsander48&layout=compact)](https://github.com/Olegsander48/github-readme-stats)
-![Olegsander48's Stats](https://github-readme-stats.vercel.app/api?username=Olegsander48&theme=default&show_icons=true&hide_border=true&count_private=true)
+![Olegsander48's Stats](https://github-readme-stats.vercel.app/api?username=Olegsander48&theme=default&show_icons=true&hide_border=false&count_private=true)
