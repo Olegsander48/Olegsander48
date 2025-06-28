@@ -27,7 +27,7 @@ jobs:
           # Options
           user: Olegsander48
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           config_timezone: Europe/Minsk
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
