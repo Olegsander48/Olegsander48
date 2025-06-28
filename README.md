@@ -47,3 +47,6 @@ Some info about me:
 
 ![Olegsander48's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegsander48&theme=default&show_icons=true&hide_border=false&layout=compact)
 ![Olegsander48's Stats](https://github-readme-stats.vercel.app/api?username=Olegsander48&theme=default&show_icons=true&hide_border=false&count_private=true)
+<hr>
+
+![Metrics](https://github.com/Olegsander48/Olegsander48/blob/main/github-metrics.svg)
