@@ -41,7 +41,7 @@ Some info about me:
 <hr>
 <h3 align="left">✨ Random Dev Quote:</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
 </p>
 <hr>
 
